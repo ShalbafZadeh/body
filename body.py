@@ -1,16 +1,16 @@
 class Person:
 
-    def __init__(self, head, tounge):
+    def __init__(self,head,tongue):
         self.head = head
-        self.tounge = tounge
+        self.tongue = tongue
 
     def beheading(self):
-        if self.head == "green" and self.tounge == "red":
-            print ("Person is going to be beheaded")
+        if self.head == "green" and self.tongue == "red":
+            print ("Person has beheaded")
         else:
             print ("Person remains alive")
 
 
-person = Person(head="green", tounge="red")
+person = Person(head="green",tongue="red")
 person.beheading()
 
