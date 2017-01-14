@@ -4,12 +4,13 @@ class Person:
         self.head = head
         self.tounge = tounge
 
-    def behading(self):
+    def beheading(self):
         if self.head == "green" and self.tounge == "red":
-            print ("Person has behaded")
+            print ("Person is going to be beheaded")
         else:
             print ("Person remains alive")
 
 
 person = Person(head="green", tounge="red")
-person.behading()
+person.beheading()
+
