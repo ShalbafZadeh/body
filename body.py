@@ -1,4 +1,5 @@
 class Person:
+
     def __init__(self,head,tongue):
         self.head = head
         self.tongue = tongue
@@ -12,3 +13,4 @@ class Person:
 
 person = Person(head="green",tongue="red")
 person.beheading()
+

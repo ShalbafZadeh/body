@@ -9,3 +9,10 @@ other implementations :
 | language      | Repo             |
 | ------------- |:-------------:   |
 | golang        | [body](https://github.com/arastu/body/)    |
+| Ruby          | [body](https://github.com/prp-e/body)    |
+| JS            | [body](https://github.com/mamal72/body)   |
+
+
+
+
+
